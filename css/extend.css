@@ -68,6 +68,7 @@ body{
         text-align: left;
         position: relative;
         top: 5px;
+        font-size: 13px;
     }
     .ul >.listItem a:hover{
         font-weight: bolder;
